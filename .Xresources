@@ -1,0 +1,7 @@
+*.color0: #06181c
+*.color7: #d4cac9
+*.color3: #c07660
+
+rofi.font: Gohu GohuFont 8
+rofi.show-match: false
+rofi.width: 450

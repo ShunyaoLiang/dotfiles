@@ -1,0 +1,33 @@
+! URxvt settings
+
+URxvt.dpi:    				96
+URxvt.antialias:			false
+URxvt.hinting:    			true
+URxvt.hintstyle:            hintslight
+
+! General settings 
+URxvt.termName:    			rxvt
+URxvt.visualBell:    		true
+URxvt.loginShell:    		true
+URxvt.saveLines:    		100000
+URxvt.internalBorder:    	40
+URxvt.cursorBlink:    		false
+URxvt.cursorUnderline:    	false
+
+! Dont Scroll with text
+URxvt.scrollTtyOutput:    	false
+URxvt.scrollTtyKeypress:    true
+URxvt.scrollWithBuffer:    	true
+
+! Fonts
+URxvt.allow_bold:    		true
+URxvt.font:    				xft:Gohu GohuFont:style=Regular:pixelsize=11
+URxvt.boldFont:    			xft:Gohu GohuFont:style=Bold:pixelsize=11
+
+
+! Scrollbar
+URxvt.scrollStyle:    		rxvt
+URxvt.scrollBar:    		false
+
+! Perl
+URxvt.perl-ext-common:    	resize-font
