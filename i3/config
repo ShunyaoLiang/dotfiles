@@ -174,8 +174,8 @@ client.urgent			$alert $alert  $bg  $bg       $bg
 font pango:Gohu GohuFont 8
 
 # gaps
-gaps inner 40
-gaps outer 13
+gaps inner 42
+gaps outer 12
 
 # custom keybinds
 bindsym $mod+Shift+plus gaps outer all plus 5
